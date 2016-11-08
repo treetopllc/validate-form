@@ -1,3 +1,6 @@
+0.9.4 - November 7, 2016
+-----------------------
+* add required custom field validators
 
 0.9.2 - October 1, 2014
 -----------------------
